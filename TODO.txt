@@ -1,0 +1,1 @@
+A fájlbaírás mellet szükség lesz egy adatbázisba író osztályra is.
